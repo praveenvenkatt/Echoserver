@@ -55,12 +55,14 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### echo-server.py:
-![image](https://github.com/user-attachments/assets/1c6cd620-a867-498a-8f33-c337acf13079)
+![{DF61AC03-D454-4C02-B2B1-2B67BC8AB1D1}](https://github.com/user-attachments/assets/09fd4cf8-e86f-4c49-bf08-fc3aeb3af8d8)
+
 
 
 ### echo-client.py
 
-![image](https://github.com/user-attachments/assets/652cf567-b634-444f-a5b9-2611064e7306)
+![{96A58B57-964B-4F34-8BB1-B98A07A9D80C}](https://github.com/user-attachments/assets/84fc6bc4-a669-410f-be7a-0f6375fa98aa)
+
 
 
 
