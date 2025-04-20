@@ -1,9 +1,13 @@
-# Echoserver
-Echo server and client using python socket
+#EX 1: SIMPLE ECHO SERVER AND CLIENT USING PYTHON SOCKET
 
 # AIM:
 
 To develop a simple webserver to serve html programming pages.
+
+```
+Register Number: 212222040121
+Name: Praveen V
+```
 
 ## DESIGN STEPS:
 
